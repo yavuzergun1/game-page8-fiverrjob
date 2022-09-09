@@ -249,4 +249,27 @@ header .back {
     width: 90%;
     height: 400px;
   }
+  .window-body-left {
+    height: 250px;
+  }
+  .left-item-blue-container, .left-item-container {
+    height: 50px;
+  }
+  .body-first, .body-second, .body-third, .body-fourth {
+    height: 40px;
+  }
+  .body-first img, .body-second img, .body-third img, .body-fourth img {
+    width: 25%;
+  }
+  .left-info-container, .right-info-container {
+    height: 45px;
+    padding-left: 5px;
+  }
+  .left-info-container p, .right-info-container p {
+    font-size: 0.6rem;
+    margin-left: 5px;
+  }
+  .buttons img {
+    top: 13px;
+  }
 }/*# sourceMappingURL=style.css.map */
